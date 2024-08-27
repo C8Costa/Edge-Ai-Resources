@@ -17,26 +17,23 @@ This is a list of useful Edge Ai information, including hardware, software, scie
 
 ### MCU + GPU
 
--[NVidia Jetson]()-
+-[NVidia Jetson]()
 
 ### MCU + FPGA
 
-- [AMD Kria KV260]()- 
+- [AMD Kria KV260]()
 
 ### MCU + ASIC
 
-- [EK-RA8M1]() - 
+- [EK-RA8M1]() 
 - [MAX78002]()
-- [STM3232H747I-DISCO]()
+- [STM3232H747I-DISCO]() 
 - [STM32N6]()
 - [STM32MP257F]()
 - [MCX N94x MCUs]()
 - [SK-AM62A-LP]()
-
 - [GAP9]()
-
 - [Himax ]()
-
 
 # Software
 
@@ -48,7 +45,7 @@ This is a list of useful Edge Ai information, including hardware, software, scie
 
 # Books & Other Literature
 
-- [Machine Learning Systems - Principles and Practices of Engineering Artificially Intelligent Systems](https://mlsysbook.ai/) - 
+- [Machine Learning Systems - Principles and Practices of Engineering Artificially Intelligent Systems](https://mlsysbook.ai/)
 
 # Community Repositories
 
