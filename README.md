@@ -1,6 +1,6 @@
 # Edge-Ai-Resources
 This is a list of useful Edge Ai information, including hardware, software, scientific literature.
-With this repository with pretend to provide a extensive overview of edge ai resources,
+With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaiable startups.
 
 ## Index
 - [Hardware](#hardware)
@@ -14,28 +14,25 @@ With this repository with pretend to provide a extensive overview of edge ai res
 
 # Hardware
 We look to present the various types of hardware available for Edge AI, devided by diferent categories of hardware accelerators.
-- 1 - GPU Accelerators
-- 2 - FPGA Accelerators
-- 3 - ASICS Accelerators
---  Including the vairous generic IC architectures(ARM, RISC-V, ARC)
---  TPUs, VPUs, ...
-
+  1. GPU Accelerators[]()
+  2. FPGA Accelerators
+  3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
 
 ### GPU
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson developmeent systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
   - [AAEONN Platforms](https://www.aaeon.com/en/c/aaeon-nvidia-ai-solutions) - AAEON’s embedded AI systems utilize the entire range of NVIDIA SoMs, from the budget-friendly Jetson Nano to the highly powerful Jetson AGX Orin, which delivers up to 200 TOPS of inferencing performance.
-  - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware. 
-- [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson developmeent systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
-  - [AAEONN Platforms](https://www.aaeon.com/en/c/aaeon-nvidia-ai-solutions) - AAEON’s embedded AI systems utilize the entire range of NVIDIA SoMs, from the budget-friendly Jetson Nano to the highly powerful Jetson AGX Orin, which delivers up to 200 TOPS of inferencing performance.
-  - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware. 
+  - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware.
+  - [FZ3 Card](https://www.myirtech.com/list.asp?id=630) - The FZ3 Card is a powerful deep learning accelerator card based on Xilinx Zynq UltraScale+ ZU3EG MPSoC which features a 1.2 GHz quad-core ARM Cortex-A53 64-bit application processor, a 600MHz dual-core real-time ARM Cortex-R5 processor, a Mali400 embedded GPU and rich FPGA fabric.
 
 ### FPGA
 - [AMD (previous Xilinx) Kria SOMs](https://www.amd.com/en/products/system-on-modules/kria.html#portfolio)- The AMD Kria SOMs feature Zynq UltraScale+ MPSoC.
   - [AMD Kria KV260](https://www.amd.com/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit.html) - The KV260 is built for advanced vision application development without requiring complex hardware design knowledge.
   - [Ultra96-V2](https://www.96boards.org/product/ultra96/) - Ultra96-V2 is an Arm-based, Xilinx Zynq UltraScale+ ™ MPSoC development board based on the Linaro 96Boards Consumer Edition (CE) specification.
-- [Intel ]()
-- [EFINIX]()
-- [Lattice]()
+- [Intel  FPGA]() - Intel® FPGA AI Suite offers a seamless flow for embedding AI inference into Altera® FPGAs. This suite takes advantage of the traditional RTL and IP flow. 
+  - [Agilex](https://www.intel.com/content/www/us/en/products/docs/programmable/agilex-5-d-series-fpga.html) - FPGAs integrating Enhanced DSP with AI Tensor Blocks.
+  - [Arria](https://www.intel.com/content/www/us/en/products/details/fpga/development-kits/cyclone/10-gx.html) - Intel® Cyclone® 10 GX FPGA Development Kit is an ideal starting point for applications, such as embedded vision, factory automation, video connectivity evaluation, or concept proving.
+- [EFINIX Titanium FPGAs](https://www.efinixinc.com/products-titanium.html) - The 16 nm process node gives Titanium FPGAs a small footprint with low power consumption, making them ideal for highly integrated applications. With a wide range of logic element (LE) densities from 35K to 1M, and compatibility with the Efinix RISC-V SoCs, they can help you turn a tiny chip into an accelerated embedded compute system.
+- [Lattice](https://www.latticesemi.com/en/Solutions/Solutions/SolutionsDetails02/sensAI) - Lattice sensAI stack includes everything you need to evaluate, develop and deploy FPGA-based Machine Learning / Artificial Intelligence solutions - modular hardware platforms, example demonstrations, reference designs, neural network IP cores, software tools for development, and custom design services.
 - [Microchip PolarFire® SoC FPGAs](https://www.microchip.com/en-us/products/fpgas-and-plds/system-on-chip-fpgas/polarfire-soc-fpgas) - The PolarFire®  is the first System-on-Chip (SoC) FPGA to feature a deterministic, coherent RISC-V CPU cluster.
   - [BeagleV®-Fire](https://www.beagleboard.org/boards/beaglev-fire) - BeagleV®-Fire is a revolutionary single-board computer (SBC) powered by the Microchip’s PolarFire® MPFS025T 5x core RISC-V System on Chip (SoC) with FPGA fabric.
 
@@ -48,7 +45,7 @@ We look to present the various types of hardware available for Edge AI, devided 
 - [STM32MP257F](https://www.st.com/en/microcontrollers-microprocessors/stm32mp257f.html) - Dual Cortex-A35, Cortex-M33, neural processing unit (NPU) with 1.35 TOPS and graphics processing unit (GPU).
 - [MCX N94x/54x](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/mcx-arm-cortex-m/mcx-n-series-microcontrollers/mcx-n94x-54x-highly-integrated-multicore-mcus-with-on-chip-accelerators-intelligent-peripherals-and-advanced-security:MCX-N94X-N54X) - NXP IC based on dual high-performance Arm® Cortex®-M33 cores running up to 150 MHz, with 2MB of Flash with optional full ECC RAM, a DSP co-processor and an integrated eIQ Neutron NPU.
 - [AM6xxX](https://www.ti.com/microcontrollers-mcus-processors/arm-based-processors/products.html#1217=1%20deep%20learning%20accelerator%2C%201%20video%20encode%2Fdecode%20accelerator%2C%201%20vision%20pre-processing%20accelerator%3B1%20deep%20learning%20accelerator%2C%201%20video%20encode%2Fdecode%20accelerator%2C%201%20vision%20pre-processor%20accelerator&2115=2%20Arm%20Cortex-A53%3B4%20Arm%20Cortex-A53&) - Texas Instruments IC e integrated 64-bit Arm Cortex-A53 and 2 Deep Learning Accelerator (C7x256v).
-  - [BeagleY®-AI](https://www.beagleboard.org/boards/beagley-ai) 
+  - [BeagleY®-AI](https://www.beagleboard.org/boards/beagley-ai) - BeagleY-AI is an open-source single board computer based on the Texas Instruments AM67A processor.
 - [GAPx](https://greenwaves-technologies.com/low-power-processor/) - GREENWAVES TECHNOLOGIES GAP8/GAP9 ICs are based on ultra-low-power RISC-V processors.
 - [Kneron AI SOCs](https://www.kneron.com/page/soc/) - Equipped with Kneron’s proprietary NPU, which accelerates neural network models, Kneron SoCs enable a wide range of AI applications for smart devices.
 - [Kendryte Kxxx IC](https://developer.canaan-creative.com/resource) - Kendryte offers the KV210, KV230 and KV510 ICs, based on RISC-V architecture 
@@ -62,21 +59,22 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
 The CanMV-K230 development board uses the latest generation SoC chip K230 in Canaan Technology’s Kendryte® series AIoT chips.
 - [Syntiant NDPs](https://www.syntiant.com/hardware) - The Syntiant family of Neural Decision Processors are based on  ARM Cortex-M0 cores and Syntiant Core programmable deep learning architecture.
 - [Google Coral TPU](https://coral.ai/products/) - Google ASIC designed for Edge aplications.
+- [Intel Movidius Myriad x VPU](https://www.intel.com/content/www/us/en/products/details/processors/movidius-vpu.html) - Intel® Movidius™ Vision Processing Units (VPUs) are specialized processors designed to accelerate AI and computer vision tasks. 
+  - [Intel Neural Compute Stick 2](https://www.intel.com/content/www/us/en/developer/articles/tool/neural-compute-stick.html) - The Intel® Neural Compute Stick 2 (Intel® NCS2) is a compact USB device designed to accelerate AI development and deployment on edge devices.
+  - [UP Xtreme Edge Compute Enabling Kit](https://up-board.org/up-xtreme-edge-compute-enabling-kit/) - UP Xtreme Edge Compute Enabling Kit, powered by the 8th Generation Ultra-Low Power Intel® Core™ i3/i5/i7/Celeron CPU, is designed to boost your AI on-the-Edge. Offload AI workloads from Intel® Core™ CPU and integrated GPU to the optional VPU by selecting the kit configuration with the UP AI Core XM2280, powered by 2 Intel® Movidius™ Myriad™ X.
 - [Hailo-8 AI Accelerator](https://hailo.ai/products/ai-accelerators/) - The Hailo-8 edge AI processor, features up to 26 tera-operations per second (TOPS)
   - [Raspberry Pi AI Kit](https://www.raspberrypi.com/products/ai-kit/) - The Raspberry Pi AI Kit bundles the Raspberry Pi M.2 HAT+ with a Hailo AI acceleration module for use with Raspberry Pi 5.
 - [ESP32-S3](https://www.espressif.com/en/products/socs/esp32-s3) - ESP32-S3 is a dual-core XTensa LX7 MCU, capable of running at 240 MHz. It has additional support for vector instructions in the MCU, which provides acceleration for neural network computing and signal processing workloads.
    - [ESP32-S3-EYE](https://www.espressif.com/en/products/devkits/esp-eye/overview) - The ESP32-S3-EYE is a small-sized AI development board based on the ESP32-S3 SoC
-- [Amlogic Axx]() - 
+- [Amlogic A**](https://www.amlogic.com/#Products) -  Amlogic processors combine ARM-based CPU cores with integrated GPUs and dedicated hardware for handling high-resolution video
   - [KHADAS VIM3](https://www.khadas.com/vim3) - The VIM3 SBC includes a Amlogic A311D with a 5.0 TOPS NPU.
   - [JEVOIS-PRO](https://www.jevoisinc.com/) - Open-source quad-core camera with the A311D IC.
-- [Ambiq Apollo](https://ambiq.com/products/) - 
-  - [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170) - 
+- [Ambiq Apollo](https://ambiq.com/products/) - The Apollo SoCs include a standard Arm Cortex-M4F core. 
+  - [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170) - The board utilizes Ambiq Micro's  Apollo3 Blue microcontroller, featuring an ultra-efficient ARM Cortex-M4F processor clocked at 48MHz (with a 96MHz burst mode), designed to run TensorFlow Lite with power consumption as low as 6uA/MHz. 
 - [ARM Ethos NPUs](https://www.arm.com/products/silicon-ip-cpu?families=ethos%20npus) - Arm has a ethos family of machine learning inference processor oferring up to 4 TOPs scalable ML performance
 
-
 ### Development Boards
-- [Himax WE-I Plus EVB Endpoint AI Development Board](https://www.sparkfun.com/products/17256) -
-- [Himax WE-I Plus EVB Endpoint AI Development Board](https://www.sparkfun.com/products/17256) -
+- [Himax WE-I Plus EVB Endpoint AI Development Board](https://www.sparkfun.com/products/17256) - The WE-I Plus EVB features an integrated WE-I Plus ASIC (HX6537-A) with an embedded Synopsys ARC EM9D DSP running at 400MHz, along with 2MB of internal SRAM and 2MB of Flash memory, supporting the deployment of larger Neural Network models.
 
 # Software
 - [Tensorflow Lite]()
