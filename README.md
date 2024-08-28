@@ -25,6 +25,9 @@ We look to present the various types of hardware available for Edge AI, devided 
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson developmeent systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
   - [AAEONN Platforms](https://www.aaeon.com/en/c/aaeon-nvidia-ai-solutions) - AAEON’s embedded AI systems utilize the entire range of NVIDIA SoMs, from the budget-friendly Jetson Nano to the highly powerful Jetson AGX Orin, which delivers up to 200 TOPS of inferencing performance.
   - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware. 
+- [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson developmeent systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
+  - [AAEONN Platforms](https://www.aaeon.com/en/c/aaeon-nvidia-ai-solutions) - AAEON’s embedded AI systems utilize the entire range of NVIDIA SoMs, from the budget-friendly Jetson Nano to the highly powerful Jetson AGX Orin, which delivers up to 200 TOPS of inferencing performance.
+  - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware. 
 
 ### FPGA
 - [AMD (previous Xilinx) Kria SOMs](https://www.amd.com/en/products/system-on-modules/kria.html#portfolio)- The AMD Kria SOMs feature Zynq UltraScale+ MPSoC.
@@ -41,12 +44,18 @@ We look to present the various types of hardware available for Edge AI, devided 
 - [MAX78002](https://www.analog.com/en/products/max78002.html) - Analog Devices system-on-chip featuring an Arm® Cortex®-M4 with FPU CPU for efficient system control with an ultra-low-power deep neural network accelerator.
 - [STM3232H747XI](https://www.st.com/en/microcontrollers-microprocessors/stm32h747xi.html) - STMicroelectronics IC based on the high-performance Arm® Cortex®-M7 and Cortex®-M4 32-bit RISC cores.
    - [OpenMV Cam H7](https://www.sparkfun.com/openmv) - The OpenMV H7 Camera is a small, low power, microcontroller board which allows you to easily implement applications using machine vision in the real-world. Out of the box, it comes loaded with the MicroPython interpreter, so you don't need to load anything to get it up and running!
+   - [OpenMV Cam H7](https://www.sparkfun.com/openmv) - The OpenMV H7 Camera is a small, low power, microcontroller board which allows you to easily implement applications using machine vision in the real-world. Out of the box, it comes loaded with the MicroPython interpreter, so you don't need to load anything to get it up and running!
 - [STM32MP257F](https://www.st.com/en/microcontrollers-microprocessors/stm32mp257f.html) - Dual Cortex-A35, Cortex-M33, neural processing unit (NPU) with 1.35 TOPS and graphics processing unit (GPU).
 - [MCX N94x/54x](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/mcx-arm-cortex-m/mcx-n-series-microcontrollers/mcx-n94x-54x-highly-integrated-multicore-mcus-with-on-chip-accelerators-intelligent-peripherals-and-advanced-security:MCX-N94X-N54X) - NXP IC based on dual high-performance Arm® Cortex®-M33 cores running up to 150 MHz, with 2MB of Flash with optional full ECC RAM, a DSP co-processor and an integrated eIQ Neutron NPU.
 - [AM6xxX](https://www.ti.com/microcontrollers-mcus-processors/arm-based-processors/products.html#1217=1%20deep%20learning%20accelerator%2C%201%20video%20encode%2Fdecode%20accelerator%2C%201%20vision%20pre-processing%20accelerator%3B1%20deep%20learning%20accelerator%2C%201%20video%20encode%2Fdecode%20accelerator%2C%201%20vision%20pre-processor%20accelerator&2115=2%20Arm%20Cortex-A53%3B4%20Arm%20Cortex-A53&) - Texas Instruments IC e integrated 64-bit Arm Cortex-A53 and 2 Deep Learning Accelerator (C7x256v).
   - [BeagleY®-AI](https://www.beagleboard.org/boards/beagley-ai) 
 - [GAPx](https://greenwaves-technologies.com/low-power-processor/) - GREENWAVES TECHNOLOGIES GAP8/GAP9 ICs are based on ultra-low-power RISC-V processors.
 - [Kneron AI SOCs](https://www.kneron.com/page/soc/) - Equipped with Kneron’s proprietary NPU, which accelerates neural network models, Kneron SoCs enable a wide range of AI applications for smart devices.
+- [Kendryte Kxxx IC](https://developer.canaan-creative.com/resource) - Kendryte offers the KV210, KV230 and KV510 ICs, based on RISC-V architecture 
+  - [Grove AI HAT](https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/grove_ai_hat.html) - Built around Sipeed MAix M1 AI MODULE with Kendryte K210 processor inside.
+  - [Cannan CanMV-K230](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) - 
+The CanMV-K230 development board uses the latest generation SoC chip K230 in Canaan Technology’s Kendryte® series AIoT chips.
+- [Syntiant NDPs](https://www.syntiant.com/hardware) - The Syntiant family of Neural Decision Processors are based on  ARM Cortex-M0 cores and Syntiant Core programmable deep learning architecture.
 - [Kendryte Kxxx IC](https://developer.canaan-creative.com/resource) - Kendryte offers the KV210, KV230 and KV510 ICs, based on RISC-V architecture 
   - [Grove AI HAT](https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/grove_ai_hat.html) - Built around Sipeed MAix M1 AI MODULE with Kendryte K210 processor inside.
   - [Cannan CanMV-K230](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) - 
@@ -67,6 +76,7 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
 
 ### Development Boards
 - [Himax WE-I Plus EVB Endpoint AI Development Board](https://www.sparkfun.com/products/17256) -
+- [Himax WE-I Plus EVB Endpoint AI Development Board](https://www.sparkfun.com/products/17256) -
 
 # Software
 - [Tensorflow Lite]()
@@ -76,6 +86,7 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
 - [OpenVINO]()
 - [TensorRT]()
 - [STM32Cube.Ai]()
+- [e-AI Development Environment](https://www.renesas.com/us/en/e-ai-development-environment-microcontrollers#overview) - The tool can convert from a trained model of “PyTorch”, “Keras”, “Tensorflow”, or an 8-bit quantized model of “TensorFlow Lite” and import it easily to e² studio, Renesas' integrated development environment.
 - [e-AI Development Environment](https://www.renesas.com/us/en/e-ai-development-environment-microcontrollers#overview) - The tool can convert from a trained model of “PyTorch”, “Keras”, “Tensorflow”, or an 8-bit quantized model of “TensorFlow Lite” and import it easily to e² studio, Renesas' integrated development environment.
 - [Reality AI Tools®](https://www.renesas.com/us/en/software-tool/reality-ai-tools)
 
