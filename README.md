@@ -1,6 +1,7 @@
 # Edge-Ai-Resources
 This is a list of useful Edge Ai information, including hardware, software, scientific literature.
 With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaiable startups.
+With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaiable startups.
 
 ## Index
 - [Hardware](#hardware)
@@ -17,10 +18,15 @@ We look to present the various types of hardware available for Edge AI, devided 
   1. GPU Accelerators[]()
   2. FPGA Accelerators
   3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
+  1. GPU Accelerators[]()
+  2. FPGA Accelerators
+  3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
 
 ### GPU
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson developmeent systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
   - [AAEONN Platforms](https://www.aaeon.com/en/c/aaeon-nvidia-ai-solutions) - AAEON’s embedded AI systems utilize the entire range of NVIDIA SoMs, from the budget-friendly Jetson Nano to the highly powerful Jetson AGX Orin, which delivers up to 200 TOPS of inferencing performance.
+  - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware.
+  - [FZ3 Card](https://www.myirtech.com/list.asp?id=630) - The FZ3 Card is a powerful deep learning accelerator card based on Xilinx Zynq UltraScale+ ZU3EG MPSoC which features a 1.2 GHz quad-core ARM Cortex-A53 64-bit application processor, a 600MHz dual-core real-time ARM Cortex-R5 processor, a Mali400 embedded GPU and rich FPGA fabric.
   - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware.
   - [FZ3 Card](https://www.myirtech.com/list.asp?id=630) - The FZ3 Card is a powerful deep learning accelerator card based on Xilinx Zynq UltraScale+ ZU3EG MPSoC which features a 1.2 GHz quad-core ARM Cortex-A53 64-bit application processor, a 600MHz dual-core real-time ARM Cortex-R5 processor, a Mali400 embedded GPU and rich FPGA fabric.
 
