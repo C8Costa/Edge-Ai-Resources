@@ -1,20 +1,19 @@
 # Edge-Ai-Resources
 This is a list of useful Edge Ai information, including hardware, software, scientific literature.
-With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaiable startups.
-With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaiable startups.
+With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaible startups.
 
 ## Index
 - [Hardware](#hardware)
 - [Software](#software)
 - [Benchmarking](#benchmarking)
-- [Books & Other Literature](#books-other-literature)
+- [Books & Other Literature](#books-&-other-literature)
 - [Community Repositories](#community-repositories)
 - [Useful Tutorials](#useful-tutorials)
 - [Optimized DL Models](#optimized-dl-models)
 - [Multimodal Datasets](#multimodal-datasets)
 
 # Hardware
-We look to present the various types of hardware available for Edge AI, devided by diferent categories of hardware accelerators.
+We look to present the various types of hardware available for Edge AI, divided by different categories of hardware accelerators.
   1. GPU Accelerators[]()
   2. FPGA Accelerators
   3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
@@ -23,7 +22,7 @@ We look to present the various types of hardware available for Edge AI, devided 
   3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
 
 ### GPU
-- [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson developmeent systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
+- [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson development systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
   - [AAEONN Platforms](https://www.aaeon.com/en/c/aaeon-nvidia-ai-solutions) - AAEON’s embedded AI systems utilize the entire range of NVIDIA SoMs, from the budget-friendly Jetson Nano to the highly powerful Jetson AGX Orin, which delivers up to 200 TOPS of inferencing performance.
   - [Artificial Intelligence Radio - Transceiver (AIR-T)](https://www.crowdsupply.com/deepwave-digital/air-t) - The Artificial Intelligence Radio Transceiver (AIR-T) is a high-performance software-defined radio (SDR) seamlessly integrated with state-of-the-art processing and deep learning inference hardware.
   - [FZ3 Card](https://www.myirtech.com/list.asp?id=630) - The FZ3 Card is a powerful deep learning accelerator card based on Xilinx Zynq UltraScale+ ZU3EG MPSoC which features a 1.2 GHz quad-core ARM Cortex-A53 64-bit application processor, a 600MHz dual-core real-time ARM Cortex-R5 processor, a Mali400 embedded GPU and rich FPGA fabric.
@@ -75,7 +74,7 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
   - [JEVOIS-PRO](https://www.jevoisinc.com/) - Open-source quad-core camera with the A311D IC.
 - [Ambiq Apollo](https://ambiq.com/products/) - The Apollo SoCs include a standard Arm Cortex-M4F core. 
   - [SparkFun Edge Development Board - Apollo3 Blue](https://www.sparkfun.com/products/15170) - The board utilizes Ambiq Micro's  Apollo3 Blue microcontroller, featuring an ultra-efficient ARM Cortex-M4F processor clocked at 48MHz (with a 96MHz burst mode), designed to run TensorFlow Lite with power consumption as low as 6uA/MHz. 
-- [ARM Ethos NPUs](https://www.arm.com/products/silicon-ip-cpu?families=ethos%20npus) - Arm has a ethos family of machine learning inference processor oferring up to 4 TOPs scalable ML performance
+- [ARM Ethos NPUs](https://www.arm.com/products/silicon-ip-cpu?families=ethos%20npus) - Arm has a ethos family of machine learning inference processor offering up to 4 TOPs scalable ML performance
 
 ### Development Boards
 - [Himax WE-I Plus EVB Endpoint AI Development Board](https://www.sparkfun.com/products/17256) - The WE-I Plus EVB features an integrated WE-I Plus ASIC (HX6537-A) with an embedded Synopsys ARC EM9D DSP running at 400MHz, along with 2MB of internal SRAM and 2MB of Flash memory, supporting the deployment of larger Neural Network models.
@@ -84,7 +83,7 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
 - [Tensorflow Lite]()
 - [Pytorch Executorch]()
 - [ONNX Runtime]()
-- [AMD VitisAi™](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) - AI inference development platform for AMD devices, boards, and Alveo™ data center acceleration cards.
+- [AMD VitisAi™](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) - AI inference development platform for AMD devices, boards, and Alveo™ data centre acceleration cards.
 - [OpenVINO]()
 - [TensorRT]()
 - [STM32Cube.Ai]()
@@ -93,20 +92,22 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
 - [Reality AI Tools®](https://www.renesas.com/us/en/software-tool/reality-ai-tools)
 
 # Benchmarking
-- [AEdge AIbench V3.0](https://www.benchcouncil.org/aibench/edge-aibench/index.html)
+- [Edge AIBench V3.0](https://www.benchcouncil.org/aibench/edge-aibench/index.html)
 - [AIoTBench](https://www.benchcouncil.org/aibench/aiotbench/index.html)
-- [Flet-Edge](https://www.benchcouncil.org/FletEdge/)
 - [MLMark](https://www.eembc.org/mlmark/)
-- [MLPerf Tiny Benchmark](https://mlcommons.org/en/inference-tiny-10/)
-- [EDLAB](https://github.com/HPInc/EDLAB)
+- [MLPerf Inference: Tiny Benchmark Suite Results](https://mlcommons.org/en/inference-tiny-10/)
+- [EDLAB (Edge Deep Learning Accelerator Benchmark)](https://github.com/HPInc/EDLAB)
+
 
 # Books & Other Literature
 - [Machine Learning Systems - Principles and Practices of Engineering Artificially Intelligent Systems](https://mlsysbook.ai/)
 
 # Community Repositories
+
 - [Github: AI at the edge](https://github.com/crespum/edge-ai) - A curated list of hardware,software, frameworks and other resources for Artificial Intelligence at the edge.
 - [Github: awesome-edge-ai](https://github.com/rcmalli/awesome-edge-ai) - A curated list of edge devices for AI applications.
-- [Github: awesome-dge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) - A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.
+- [Github: awesome-dge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) - A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others. **(Highly Recomended)**
+- [Github: AI-Chip](https://github.com/basicmi/AI-Chip) - AI Chip (ICs and IPs)
 - [Github: AI-Chip-List](https://github.com/icochecker/AI-Chip-List) - AI/ML/DL ICs and IPs
 
 # Useful Tutorials
@@ -117,7 +118,3 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
 - [VitisAi 3.0 Host Installation](https://xilinx.github.io/Vitis-AI/3.0/html/docs/install/install.html)
 - [YOLOv5 Quantization & Compilation with Vitis AI 3.0 for Kria](https://www.hackster.io/LogicTronix/yolov5-quantization-compilation-with-vitis-ai-3-0-for-kria-7b005d)
 - [AMD Xilinx Kria KV260 Vision AI Starter Kit: License plate detection: YOLOv7](https://community.element14.com/products/roadtest/b/blog/posts/amd-xilinx-kria-kv260-vision-ai-starter-kit-license-plate-detection-yolov7)
-
-# Optimized Dl Models
-
-# Multimodal Datasets
