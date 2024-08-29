@@ -1,6 +1,6 @@
 # Edge-Ai-Resources
 This is a list of useful Edge Ai information, including hardware, software, scientific literature.
-With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaible startups.
+With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaible startups. This repository look to groups information gathered from multiple online sources, including other repositories and manufacturer websites.
 
 ## Index
 - [Hardware](#hardware)
@@ -9,17 +9,13 @@ With this repository with pretend to provide a extensive overview of current edg
 - [Books & Other Literature](#books-&-other-literature)
 - [Community Repositories](#community-repositories)
 - [Useful Tutorials](#useful-tutorials)
-- [Optimized DL Models](#optimized-dl-models)
-- [Multimodal Datasets](#multimodal-datasets)
 
 # Hardware
 We look to present the various types of hardware available for Edge AI, divided by different categories of hardware accelerators.
   1. GPU Accelerators[]()
   2. FPGA Accelerators
   3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
-  1. GPU Accelerators[]()
-  2. FPGA Accelerators
-  3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
+
 
 ### GPU
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson development systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
@@ -56,11 +52,6 @@ We look to present the various types of hardware available for Edge AI, divided 
   - [Cannan CanMV-K230](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) - 
 The CanMV-K230 development board uses the latest generation SoC chip K230 in Canaan Technology’s Kendryte® series AIoT chips.
 - [Syntiant NDPs](https://www.syntiant.com/hardware) - The Syntiant family of Neural Decision Processors are based on  ARM Cortex-M0 cores and Syntiant Core programmable deep learning architecture.
-- [Kendryte Kxxx IC](https://developer.canaan-creative.com/resource) - Kendryte offers the KV210, KV230 and KV510 ICs, based on RISC-V architecture 
-  - [Grove AI HAT](https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/grove_ai_hat.html) - Built around Sipeed MAix M1 AI MODULE with Kendryte K210 processor inside.
-  - [Cannan CanMV-K230](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) - 
-The CanMV-K230 development board uses the latest generation SoC chip K230 in Canaan Technology’s Kendryte® series AIoT chips.
-- [Syntiant NDPs](https://www.syntiant.com/hardware) - The Syntiant family of Neural Decision Processors are based on  ARM Cortex-M0 cores and Syntiant Core programmable deep learning architecture.
 - [Google Coral TPU](https://coral.ai/products/) - Google ASIC designed for Edge aplications.
 - [Intel Movidius Myriad x VPU](https://www.intel.com/content/www/us/en/products/details/processors/movidius-vpu.html) - Intel® Movidius™ Vision Processing Units (VPUs) are specialized processors designed to accelerate AI and computer vision tasks. 
   - [Intel Neural Compute Stick 2](https://www.intel.com/content/www/us/en/developer/articles/tool/neural-compute-stick.html) - The Intel® Neural Compute Stick 2 (Intel® NCS2) is a compact USB device designed to accelerate AI development and deployment on edge devices.
@@ -87,7 +78,6 @@ The CanMV-K230 development board uses the latest generation SoC chip K230 in Can
 - [OpenVINO]()
 - [TensorRT]()
 - [STM32Cube.Ai]()
-- [e-AI Development Environment](https://www.renesas.com/us/en/e-ai-development-environment-microcontrollers#overview) - The tool can convert from a trained model of “PyTorch”, “Keras”, “Tensorflow”, or an 8-bit quantized model of “TensorFlow Lite” and import it easily to e² studio, Renesas' integrated development environment.
 - [e-AI Development Environment](https://www.renesas.com/us/en/e-ai-development-environment-microcontrollers#overview) - The tool can convert from a trained model of “PyTorch”, “Keras”, “Tensorflow”, or an 8-bit quantized model of “TensorFlow Lite” and import it easily to e² studio, Renesas' integrated development environment.
 - [Reality AI Tools®](https://www.renesas.com/us/en/software-tool/reality-ai-tools)
 
