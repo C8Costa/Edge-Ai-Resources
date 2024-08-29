@@ -1,6 +1,6 @@
 # Edge-Ai-Resources
 This is a list of useful Edge Ai information, including hardware, software, scientific literature.
-With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaible startups. The 
+With this repository with pretend to provide a extensive overview of current edge ai resources, focusing on vision and audio applications. We try to gather the most important information including current hardware from the major IC manufactures and some from vaible startups.
 
 ## Index
 - [Hardware](#hardware)
@@ -9,13 +9,17 @@ With this repository with pretend to provide a extensive overview of current edg
 - [Books & Other Literature](#books-&-other-literature)
 - [Community Repositories](#community-repositories)
 - [Useful Tutorials](#useful-tutorials)
+- [Optimized DL Models](#optimized-dl-models)
+- [Multimodal Datasets](#multimodal-datasets)
 
 # Hardware
 We look to present the various types of hardware available for Edge AI, divided by different categories of hardware accelerators.
   1. GPU Accelerators[]()
   2. FPGA Accelerators
   3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
-
+  1. GPU Accelerators[]()
+  2. FPGA Accelerators
+  3. ASICS Accelerators & Generic Controllers ( NPU, VPU, TPU, MCU ( ARM, RISC-V, ARC ) )
 
 ### GPU
 - [NVIDIA Jetson](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/#hardware) - The NVIDIA Jetson platform is a suite of hardware and software solutions designed for deploying AI at the edge. It provides high-performance computing capabilities in a small, energy-efficient form factor, making it ideal for AI-powered applications like robotics, autonomous machines, and IoT devices. The platform includes various modules, such as Jetson Nano, Jetson Xavier, and Jetson Orin. To review the full suite of jetson development systems pls refer to [Jetson Partner Hardware Products](https://developer.nvidia.com/embedded/jetson-partner-products)
@@ -40,12 +44,18 @@ We look to present the various types of hardware available for Edge AI, divided 
 - [MAX78002](https://www.analog.com/en/products/max78002.html) - Analog Devices system-on-chip featuring an Arm® Cortex®-M4 with FPU CPU for efficient system control with an ultra-low-power deep neural network accelerator.
 - [STM3232H747XI](https://www.st.com/en/microcontrollers-microprocessors/stm32h747xi.html) - STMicroelectronics IC based on the high-performance Arm® Cortex®-M7 and Cortex®-M4 32-bit RISC cores.
    - [OpenMV Cam H7](https://www.sparkfun.com/openmv) - The OpenMV H7 Camera is a small, low power, microcontroller board which allows you to easily implement applications using machine vision in the real-world. Out of the box, it comes loaded with the MicroPython interpreter, so you don't need to load anything to get it up and running!
+   - [OpenMV Cam H7](https://www.sparkfun.com/openmv) - The OpenMV H7 Camera is a small, low power, microcontroller board which allows you to easily implement applications using machine vision in the real-world. Out of the box, it comes loaded with the MicroPython interpreter, so you don't need to load anything to get it up and running!
 - [STM32MP257F](https://www.st.com/en/microcontrollers-microprocessors/stm32mp257f.html) - Dual Cortex-A35, Cortex-M33, neural processing unit (NPU) with 1.35 TOPS and graphics processing unit (GPU).
 - [MCX N94x/54x](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/mcx-arm-cortex-m/mcx-n-series-microcontrollers/mcx-n94x-54x-highly-integrated-multicore-mcus-with-on-chip-accelerators-intelligent-peripherals-and-advanced-security:MCX-N94X-N54X) - NXP IC based on dual high-performance Arm® Cortex®-M33 cores running up to 150 MHz, with 2MB of Flash with optional full ECC RAM, a DSP co-processor and an integrated eIQ Neutron NPU.
 - [AM6xxX](https://www.ti.com/microcontrollers-mcus-processors/arm-based-processors/products.html#1217=1%20deep%20learning%20accelerator%2C%201%20video%20encode%2Fdecode%20accelerator%2C%201%20vision%20pre-processing%20accelerator%3B1%20deep%20learning%20accelerator%2C%201%20video%20encode%2Fdecode%20accelerator%2C%201%20vision%20pre-processor%20accelerator&2115=2%20Arm%20Cortex-A53%3B4%20Arm%20Cortex-A53&) - Texas Instruments IC e integrated 64-bit Arm Cortex-A53 and 2 Deep Learning Accelerator (C7x256v).
   - [BeagleY®-AI](https://www.beagleboard.org/boards/beagley-ai) - BeagleY-AI is an open-source single board computer based on the Texas Instruments AM67A processor.
 - [GAPx](https://greenwaves-technologies.com/low-power-processor/) - GREENWAVES TECHNOLOGIES GAP8/GAP9 ICs are based on ultra-low-power RISC-V processors.
 - [Kneron AI SOCs](https://www.kneron.com/page/soc/) - Equipped with Kneron’s proprietary NPU, which accelerates neural network models, Kneron SoCs enable a wide range of AI applications for smart devices.
+- [Kendryte Kxxx IC](https://developer.canaan-creative.com/resource) - Kendryte offers the KV210, KV230 and KV510 ICs, based on RISC-V architecture 
+  - [Grove AI HAT](https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/grove_ai_hat.html) - Built around Sipeed MAix M1 AI MODULE with Kendryte K210 processor inside.
+  - [Cannan CanMV-K230](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) - 
+The CanMV-K230 development board uses the latest generation SoC chip K230 in Canaan Technology’s Kendryte® series AIoT chips.
+- [Syntiant NDPs](https://www.syntiant.com/hardware) - The Syntiant family of Neural Decision Processors are based on  ARM Cortex-M0 cores and Syntiant Core programmable deep learning architecture.
 - [Kendryte Kxxx IC](https://developer.canaan-creative.com/resource) - Kendryte offers the KV210, KV230 and KV510 ICs, based on RISC-V architecture 
   - [Grove AI HAT](https://wiki.sipeed.com/soft/maixpy/en/develop_kit_board/grove_ai_hat.html) - Built around Sipeed MAix M1 AI MODULE with Kendryte K210 processor inside.
   - [Cannan CanMV-K230](https://developer.canaan-creative.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html) - 
