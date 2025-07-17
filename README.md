@@ -1,6 +1,6 @@
 # Edge-AI-Resources
 
-[![Last Updated](https://img.shields.io/github/last-commit/yourusername/edge-ai-resources?style=flat-square)](https://github.com/yourusername/edge-ai-resources/commits/main) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![Last Updated](https://img.shields.io/github/last-commit/yourusername/edge-ai-resources?style=flat-square)](https://github.com/C8Costa/Edge-Ai-Resources/commits/main/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 A curated collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices. This repository focuses on computer vision and audio applications, aggregating information from manufacturers, research papers, and open‑source communities.
 
