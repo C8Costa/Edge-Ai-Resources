@@ -1,15 +1,11 @@
 # ⚙️ Edge AI Hardware Overview
 
 A categorized overview of available Edge AI hardware accelerators and development boards. Hardware is grouped into three main categories:
-
 - **GPUs** and **FPGAs** – general-purpose accelerators for parallel workloads.  
 - **ASICs/Custom Accelerators** – purpose-built silicon optimized for neural network inference.  
-
 Focus is placed on stable products from reputable manufacturers to ensure long-term support and community ecosystem.
 
----
 ## Table of Contents
-
 - [GPU Accelerators](#gpu-accelerators)
 - [FPGA Accelerators](#fpga-accelerators)
 - [Custom ASICs and Edge SoCs](#custom-asics-and-edge-socs)
@@ -17,7 +13,6 @@ Focus is placed on stable products from reputable manufacturers to ensure long-t
 - [Outdated or Deprecated](#outdated-or-deprecated)
 
 ---
-
 
 ## GPU Accelerators
 
