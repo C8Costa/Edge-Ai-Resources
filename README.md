@@ -6,21 +6,21 @@ A curated collection of **hardware**, **software**, **benchmarks**, **literature
 
 ## 📚 Index
 
-1. [⚙️ Hardware](https://chatgpt.com/c/docs/hardware.md)
+1. [⚙️ Hardware](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Hardware.md)
     
-2. [🧠 Software Frameworks](https://chatgpt.com/c/docs/software-frameworks.md)
+2. [🧠 Software Frameworks](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Software.md)
     
-3. [📊 Benchmarking](https://chatgpt.com/c/docs/benchmarking.md)
+3. [📊 Benchmarking](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Benchmarking.md)
     
-4. [📖 Books & Literature](https://chatgpt.com/c/docs/literature.md)
+4. [📖 Books & Literature]([https://chatgpt.com/c/docs/literature.md](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Books%20%26%20Literature.md))
     
-5. [🤝 Community Repositories](https://chatgpt.com/c/docs/community.md)
+5. [🤝 Community Repositories](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Community%20Repositories.md)
     
-6. [📹 Useful Tutorials](https://chatgpt.com/c/docs/tutorials.md)
+6. [📹 Useful Tutorials](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Useful%20Tutorials.md)
     
-7. [🛠️ Contributing](https://chatgpt.com/c/CONTRIBUTING.md)
+7. [🛠️ Contributing]()
     
-8. [📝 License](https://chatgpt.com/c/LICENSE)
+8. [📝 License]()
     
 
 ## 🛠️ Contributing
