@@ -2,8 +2,7 @@
 
 [![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)](https://github.com/C8Costa/Edge-Ai-Resources/commits/main/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://chatgpt.com/c/LICENSE)
 
-A curated collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices.
-
+A curated collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices. This repository focuses on computer vision and audio applications, aggregating information from manufacturers, research papers, and open‑source communities.
 ## 📚 Index
 
 1. [⚙️ Hardware](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Hardware.md)
