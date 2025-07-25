@@ -17,28 +17,20 @@ A curated collection of **hardware**, **software**, **benchmarks**, **literature
     
 6. [📹 Useful Tutorials](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Useful%20Tutorials.md)
     
-7. [🛠️ Contributing]()
+7. [🛠️ Contributing](#contributing)
     
-8. [📝 License]()
+8. [📝 License](#license)
     
 
 ## 🛠️ Contributing
 
 Contributions welcome!
 
-1. Fork the repo
-    
+1. Fork the repo  
 2. Create a branch
-    
 3. Add your resource
-    
 4. Open a Pull Request
     
-
 ## 📝 License
 
-MIT License. See [LICENSE](https://chatgpt.com/c/LICENSE).
-
----
-
-> All topic details have been moved to their respective markdown files under the `docs/` folder. Please refer to each one for more information.
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
