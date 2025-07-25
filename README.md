@@ -12,7 +12,7 @@ A curated collection of **hardware**, **software**, **benchmarks**, **literature
     
 3. [📊 Benchmarking](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Benchmarking.md)
     
-4. [📖 Books & Literature]([https://chatgpt.com/c/docs/literature.md](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Books%20%26%20Literature.md))
+4. [📖 Books & Literature](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Books%20%26%20Literature.md)
     
 5. [🤝 Community Repositories](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/Community%20Repositories.md)
     
