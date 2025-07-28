@@ -11,7 +11,7 @@ ___
 2. [🧠 Frameworks & Libraries](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/2_Frameworks%20&%20Libraries.md)
 3. [📊 Benchmarking](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/3_Benchmarking.md)
 4. [📖 Books & Literature](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/4_Books%20%26%20Literature.md)
-5. [🤝 Community Sites, Hubs and Tutorials](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/5_Community%20Sites,%20Hubs%20and%20Tutorials.md)
+5. [🤝 Community Sites, Hubs and Tutorials](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/5_Community%20Sites%20&%20Hubs.md)
 6. [📹 Useful Tutorials](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/6_Tutorials.md)
 7. [🛠️ Contributing](#contributing)
 8. [📝 License](#license)
