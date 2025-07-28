@@ -1,0 +1,45 @@
+# Edge-AI-Resources
+
+[![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)](https://github.com/C8Costa/Edge-Ai-Resources/commits/main/)
+
+A collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices. This repository focuses on computer vision and audio applications, bringing together data from manufacturers, research papers, and open‑source communities.
+
+___
+## 📚 Index
+
+1. [⚙️ Hardware](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/1_Hardware.md)
+2. [🧠 Frameworks & Libraries](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/2_Frameworks%20&%20Libraries.md)
+3. [📊 Benchmarking](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/3_Benchmarking.md)
+4. [📖 Books & Literature](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/4_Books%20%26%20Literature.md)
+5. [🤝 Community Sites, Hubs and Tutorials](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/5_Community%20Sites,%20Hubs%20and%20Tutorials.md)
+6. [📹 Useful Tutorials](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/6_Tutorials.md)
+7. [🛠️ Contributing](#contributing)
+8. [📝 License](#license)
+
+---
+## Applications
+
+Edge AI is an amazing field, with exponential potential — here are eight high‑impact application areas presented in the style you asked for:
+
+- **Computer Vision at the Edge** – Real‑time object detection, pose‑estimation and defect‑inspection on cameras, drones and factory lines using TensorFlow Lite, OpenVINO™ and NVIDIA TensorRT, so raw video never leaves the device.
+- **Voice & Audio Processing** – Always‑on wake‑word spotting, speech recognition and noise‑cancellation running locally on smart speakers, earbuds and intercoms with frameworks like Qualcomm® SAI, Amazon Alexa™ Voice Service (AVS) Edge and PyTorch Mobile.
+- **Predictive Maintenance** – TinyML models on microcontrollers analyze vibration, acoustic and current‑draw signatures from pumps, motors and HVAC gear to flag anomalies seconds after they appear, slashing unplanned downtime.
+- **Healthcare & Wearables** – On‑device ECG arrhythmia classification, SpO₂ trend analysis and fall detection in smartwatches, patches and hearing aids, preserving privacy and extending battery life by avoiding constant cloud uploads.
+- **Smart Retail & Checkout‑Free Stores** – Shelf cameras and weight sensors use local CNNs to track what shoppers pick up and return, enabling “walk‑out” payment while keeping customer video on‑prem for GDPR compliance.
+- **Autonomous Mobile Robots & Drones** – Sensor fusion, SLAM and path‑planning networks run on embedded GPUs / NPUs inside AMRs, warehouse bots and inspection UAVs, delivering sub‑50 ms reaction times even with spotty connectivity.
+- **Smart Energy & Micro‑Grids** – Edge controllers forecast load, solar output and price signals in real time, dynamically balancing batteries, EV chargers and HVAC systems to cut peak demand and carbon footprint.
+- **Precision Agriculture & Environmental Monitoring** – Field‑deployed sensors and ag‑drones execute plant‑disease and soil‑moisture classifiers on‑site, enabling targeted irrigation, fertilization and early pest intervention far from a data center.
+
+___
+## 🛠️ Contributing
+
+Contributions welcome!
+
+1. Fork the repo  
+2. Create a branch
+3. Add your resource
+4. Open a Pull Request
+
+## 📝 License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
