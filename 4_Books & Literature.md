@@ -8,4 +8,4 @@ Selected books and academic literature on edge AI systems, model optimization, a
 - **[Efficient Processing of Deep Neural Networks](https://link.springer.com/book/10.1007/978-3-319-95663-6)** — Covers model compression, pruning and hardware‑aware design techniques for DNNs.
 - **[Hands‑On Edge Analytics with Azure IoT](https://www.oreilly.com/library/view/hands-on-edge-analytics/9781838829902/bf9008d0-9bc3-4cbf-ad65-d727044c1f54.xhtml)** - Colin Dow, Practical recipes for deploying AI workloads with Azure IoT Edge, MQTT and Node‑RED.
   
-> Looking for research papers? Consider browsing conferences like MLSys, NeurIPS, ICLR, and journals like IEEE Transactions on VLSI or JSA for hardware-related AI research.
+
