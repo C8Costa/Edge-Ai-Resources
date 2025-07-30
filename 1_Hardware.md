@@ -27,7 +27,7 @@ Focus is placed on stable products from reputable manufacturers to ensure long-t
 4. **[Lattice FPGAs](https://www.latticesemi.com/Products/Lattice-Intelligent-Edge-AI-and-FPGA-Solutions)** - Includes the [sensAI™ Stack](https://www.latticesemi.com/en/Solutions/Solutions/SolutionsDetails02/sensAI) for AI inferencing at the edge.
 5. **[Microchip PolarFire SoCs](https://www.microchip.com/en-us/products/fpgas-and-plds/system-on-chip-fpgas/polarfire-soc-fpgas)** - Includes RISC-V CPU clusters; also offer [SmartFusion® 2 FPGAs](https://www.microchip.com/en-us/products/fpgas-and-plds/system-on-chip-fpgas/smartfusion-2-fpgas) with integrated Arm cores.
 
-## Custom ASIC Accelerators, NPUs, MCUs & MPUs
+## ASIC Accelerators, NPUs, MCUs & MPUs
 
 Purpose-built accelerators such as TPUs, NPUs, VPUs, and MCUs with neural capabilities.
 
