@@ -27,12 +27,12 @@ Focus is placed on stable products from reputable manufacturers to ensure long-t
 4. **[Lattice FPGAs](https://www.latticesemi.com/Products/Lattice-Intelligent-Edge-AI-and-FPGA-Solutions)** - Includes the [sensAI™ Stack](https://www.latticesemi.com/en/Solutions/Solutions/SolutionsDetails02/sensAI) for AI inferencing at the edge.
 5. **[Microchip PolarFire SoCs](https://www.microchip.com/en-us/products/fpgas-and-plds/system-on-chip-fpgas/polarfire-soc-fpgas)** - Includes RISC-V CPU clusters; also offer [SmartFusion® 2 FPGAs](https://www.microchip.com/en-us/products/fpgas-and-plds/system-on-chip-fpgas/smartfusion-2-fpgas) with integrated Arm cores.
 
-## Custom ASIC Accelerators, MCUs & MPUs
+## Custom ASIC Accelerators, NPUs, MCUs & MPUs
 
 Purpose-built accelerators such as TPUs, NPUs, VPUs, and MCUs with neural capabilities.
 
 1. **[Google Coral TPU](https://coral.ai/products/)** - 4 TOPS INT8 ASIC optimized for CNN inference. Available in USB, M.2, and PCIe formats.
-2. **[Qualcomm]()** - 
+2. **[Qualcomm]()** - Dragonwing processor offer edge solution combining a NPU with a DSP, such is the case of the QCS6490 in the [**RB3 Gen 2 Development Kit**](https://www.qualcomm.com/developer/hardware/rb3-gen-2-development-kit)
 3. **[RockChip Kiwi Pi5](https://www.rockchips.net/case/)** -  Uses Rockchip RK3588 CPU, with a 6.0 TOPs NPU.
 4. **[Hailo](https://hailo.ai/)** Offers co-processors like:  
 	- [Hailo-8](https://hailo.ai/products/ai-accelerators/hailo-8-ai-accelerator/)  
@@ -67,6 +67,7 @@ Third-Party development platforms that combine the above chips into complete sol
 - **[OrangePi RV2](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-RV2.html)** - OrangePi board with the Ky X1 8-core RISC-V AI CPU, providing 2TOPS CPU. 
 - **[OrangePi AIpro](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-AIpro(20t).html)** - The board has a 20TOPS version and one with just 8TOPS.
 - **[Sipeed Maix](https://wiki.sipeed.com/hardware/en/maix/index.html)** - Sipeed Maix Boards are complete solutions from hardware to software to run AI inference on the edge.
+- **[Vision AI-KIT 6490](https://www.tria-technologies.com/product/vision-ai-kit-6490/)** - Qualcomm Dragonwing™ QCS6490 Development Kit
 - **[RASynBoard](https://www.tria-technologies.com/product/rasynboard/)** -  Board based on a Syntiant NDP120 Neural Decision Processor, a Renesas RA6M4 host MCU
 - **[SparkFun Artemis](https://www.sparkfun.com/products/15170)** –  Artemis module is spec’d to run TensorFlow Lite, with the support of [Ambiq](https://ambiq.com/) Apollo3 processor
 - **[Khadas VIM 3](https://www.khadas.com/vim3)** – uses an Amlogic SoC with 5 TOPS NPU.
