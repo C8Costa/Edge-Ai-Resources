@@ -57,6 +57,7 @@ Purpose-built accelerators such as TPUs, NPUs, VPUs, and MCUs with neural capabi
 16. **[Infineon PSOC™ Edge](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)** - Combines Cortex-M55 and Ethos-U55 with ultra-low-power NNLite accelerator.
 17. **[Arm Ethos-U Series](https://developer.arm.com/documentation/109267/0102/Arm-Ethos-U-NPU)** - Includes: [Ethos-U55](https://developer.arm.com/Processors/Ethos-U55), [Ethos-U65](https://developer.arm.com/Processors/Ethos-U65), and [Ethos-U85](https://developer.arm.com/Processors/Ethos-U85) for embedded neural inference.
 18. **[BrainChip Akida](https://brainchip.com/ip/)** - In the **Edge AI Box** Brainchip combine a NXP i.MX 8M Plus Quad SOC host CPU with 2* AKD1000 (Akida AI/ML Accelerator).
+19. **[SiMa MLSoC™ Modalix ](https://sima.ai/hardware/)** - The SOC integrates a Arm APU, alongside the DSP to deliver 50 TOPS.
 
 ### Development Boards (Reference Platforms):
 
