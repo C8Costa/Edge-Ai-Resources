@@ -6,7 +6,7 @@ A collection of private and open-source projects, curated lists, and reference r
 - **[Edge Impulse]()** - Edge Impulse, is a platform to develop edge AI solutions and deploy them across a global hardware ecosystem.
 - **[EdgeAI Foundation](https://www.edgeaifoundation.org/)** - A community focused on energy efficient ai from tinyML to advanced computing.
 
-- **[hackster.io](https://www.hackster.io/search?i=projects&q=edge%20ai)** - A 
+- **[hackster.io](https://www.hackster.io/search?i=projects&q=edge%20ai)** - A community full of interesting projects for inference on the edge.
 
 ---
 ####  Other Repos
@@ -15,5 +15,3 @@ In this pages, more detailed information about the
 - **[Bisonai/awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning)** A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.**(#Must Read)**
 - **[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)** - A list of ICs and IPs for AI, Machine Learning and Deep Learning.
 - **[icochecker/AI-Chip-List](https://github.com/icochecker/AI-Chip-List)** - A extensive list of ICs and IPs for AI, Machine Learning and Deep Learning.
-
-> Know another great community repo?
