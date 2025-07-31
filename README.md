@@ -3,8 +3,6 @@
 **Curated Edge AI resources for computer vision & audio on embedded devices.**  
 Hardware • Frameworks • Benchmarking • Literature • Communities  
 
-[![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)](https://github.com/C8Costa/Edge-Ai-Resources/commits/main/)
-[![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square)](./LICENSE) 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)]() 
 [![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)]()
 
