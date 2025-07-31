@@ -2,6 +2,7 @@
 
 **Curated Edge AI resources for computer vision & audio on embedded devices.**  
 Hardware • Frameworks • Benchmarking • Literature • Communities  
+
 [![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)](https://github.com/C8Costa/Edge-Ai-Resources/commits/main/)
 
 A collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices. This repository focuses on computer vision and audio applications, bringing together data from manufacturers, research papers, and open‑source communities. Mobile (smartphone) resources are excluded.
@@ -9,14 +10,14 @@ A collection of **hardware**, **software**, **benchmarks**, **literature**, and 
 ___
 ## 📚 Index
 
-1. [⚙️ Hardware.](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/1_Hardware.md)
-2. [🧠 Frameworks & Libraries.](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/2_Frameworks%20&%20Libraries.md)
-3. [📊 Benchmarking.](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/3_Benchmarking.md)
-4. [📖 Books & Literature.](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/4_Books%20%26%20Literature.md)
-5. [🤝 Community Sites & Hubs.](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/5_Community%20Sites%20&%20Hubs.md)
-6. [📹 Tutorials.](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/6_Tutorials.md)
-7. [🛠️ Contributing.](#contributing)
-8. [📝 License.](#license)
+1. [⚙️ Edge AI Hardware & Platforms](./1_Hardware.md)
+2. [🧠 Frameworks & Libraries](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/2_Frameworks%20&%20Libraries.md)
+3. [📊 Benchmarking & Performance](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/3_Benchmarking.md)
+4. [📖 Papers, Books & Literature](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/4_Books%20%26%20Literature.md)
+5. [🤝 Community & Discussion Hubs](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/5_Community%20Sites%20&%20Hubs.md)
+6. [📹 Tutorials & Walkthroughs](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/6_Tutorials.md)
+7. [🛠️ Contributin.](#contributing)
+8. [📝 License](#license)
 
 ---
 ## Applications
