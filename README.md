@@ -45,6 +45,7 @@ Check [contributing guidelines](./contributing.md)
 3. Add your resource
 4. Open a Pull Request
 
+If you find this useful, ⭐ star the repo & share it
 
 ## 📝 License
 
