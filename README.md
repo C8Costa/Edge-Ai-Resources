@@ -6,9 +6,7 @@ Hardware • Frameworks • Benchmarking • Literature • Communities
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)]() 
 [![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)]()
 
-
-
-A collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices. This repository focuses on computer vision and audio applications, bringing together data from manufacturers, research papers, and open‑source communities. Mobile (smartphone) resources are excluded. this 
+This repository presents a curated list of resources to run AI models on edge devices. Focusing on computer vision and audio applications, it brings together data from manufacturers, research papers, and open‑source communities. Mobile (smartphone) resources are excluded.
 
 ___
 ## 📚 Table of Contents (by page)
@@ -48,7 +46,7 @@ Thank you for improving this resource! Contributions are welcome from everyone.
 
 ## 📝 License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+This repository is released under **CC0 1.0 Universal** (public domain). See [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
