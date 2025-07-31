@@ -1,4 +1,4 @@
-# Edge-AI-Resources
+# Edge AI Resources targeting Computer Vision & Audio
 
 [![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)](https://github.com/C8Costa/Edge-Ai-Resources/commits/main/)
 
