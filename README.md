@@ -1,14 +1,16 @@
-# Edge-AI-Resources ⭐
+# Edge AI Resources ⭐
 
 **Curated Edge AI resources for computer vision & audio on embedded devices.**  
 Hardware • Frameworks • Benchmarking • Literature • Communities  
 
+
 [![Last Updated](https://img.shields.io/github/last-commit/C8Costa/Edge-Ai-Resources?style=flat-square)](https://github.com/C8Costa/Edge-Ai-Resources/commits/main/)
 
-A collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices. This repository focuses on computer vision and audio applications, bringing together data from manufacturers, research papers, and open‑source communities. Mobile (smartphone) resources are excluded.
+
+A collection of **hardware**, **software**, **benchmarks**, **literature**, and **community projects** for deploying AI models on edge devices. This repository focuses on computer vision and audio applications, bringing together data from manufacturers, research papers, and open‑source communities. Mobile (smartphone) resources are excluded. this 
 
 ___
-## 📚 Index
+## 📚 Table of Contents (by page)
 
 1. [⚙️ Edge AI Hardware & Platforms](./1_Hardware.md)
 2. [🧠 Frameworks & Libraries](./2_Frameworks%20&%20Libraries.md)
@@ -36,7 +38,7 @@ Edge AI is an amazing field, with exponential potential — here are eight h
 ___
 ## 🛠️ Contributing
 
-Contributions welcome!
+Thank you for improving this resource! Contributions are welcome from everyone.
 
 1. Fork the repo  
 2. Create a branch
