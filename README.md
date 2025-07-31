@@ -44,6 +44,13 @@ Thank you for improving this resource! Contributions are welcome from everyone.
 3. Add your resource
 4. Open a Pull Request
 
+##### Types of contributions
+- **New resources** (hardware, frameworks, papers, communities, tutorials)  
+- **Updates** to existing entries (broken/outdated links, improved descriptions)  
+- **Organization improvements** (formatting, TOC fixes, accessibility)  
+- **Community additions** (new active forums, discords, etc.)
+
+
 ## 📝 License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
