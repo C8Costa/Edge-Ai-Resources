@@ -11,11 +11,11 @@ ___
 ## 📚 Index
 
 1. [⚙️ Edge AI Hardware & Platforms](./1_Hardware.md)
-2. [🧠 Frameworks & Libraries](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/2_Frameworks%20&%20Libraries.md)
-3. [📊 Benchmarking & Performance](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/3_Benchmarking.md)
-4. [📖 Papers, Books & Literature](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/4_Books%20%26%20Literature.md)
-5. [🤝 Community & Discussion Hubs](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/5_Community%20Sites%20&%20Hubs.md)
-6. [📹 Tutorials & Walkthroughs](https://github.com/C8Costa/Edge-Ai-Resources/blob/main/6_Tutorials.md)
+2. [🧠 Frameworks & Libraries](./2_Frameworks%20&%20Libraries.md)
+3. [📊 Benchmarking & Performance](./3_Benchmarking.md)
+4. [📖 Papers, Books & Literature](./4_Books%20%26%20Literature.md)
+5. [🤝 Community & Discussion Hubs](./5_Community%20Sites%20&%20Hubs.md)
+6. [📹 Tutorials & Walkthroughs](./6_Tutorials.md)
 7. [🛠️ Contributin.](#contributing)
 8. [📝 License](#license)
 
