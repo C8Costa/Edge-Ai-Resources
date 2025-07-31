@@ -5,7 +5,7 @@ Thank you for considering a contribution!
 ## How to contribute
 1. Fork the repo  
 2. Create a branch: `add-your-resource`  
-3. Edit the appropriate markdown file (e.g., `2_Frameworks & Libraries.md`) following the existing format  
+3. Edit the appropriate markdown file, following the existing format  
 4. Submit a Pull Request with a clear title and description  
 
 ## Guidelines
