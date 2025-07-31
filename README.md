@@ -34,19 +34,13 @@ Edge AI is an amazing field, with exponential potential — here are eight h
 - **Smart Energy & Micro‑Grids** – Edge controllers forecast load, solar output and price signals in real time, dynamically balancing batteries, EV chargers and HVAC systems to cut peak demand and carbon footprint.
 - **Precision Agriculture & Environmental Monitoring** – Field‑deployed sensors and ag‑drones execute plant‑disease and soil‑moisture classifiers on‑site, enabling targeted irrigation, fertilization and early pest intervention far from a data center.
 
-___
+---
 ## Contributing
+Contributions are welcome from everyone. Check the [contributions guidelines.](./contributing.md)
 
-Thank you for improving this resource! Contributions are welcome from everyone.
-Check [contributing guidelines](./contributing.md)
+If you find this repository useful, ⭐ star it & share.
 
-1. Fork the repo  
-2. Create a branch
-3. Add your resource
-4. Open a Pull Request
-
-If you find this useful, ⭐ star the repo & share it
-
+---
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
