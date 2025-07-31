@@ -17,7 +17,7 @@ ___
 4. [📖 Papers, Books & Literature](./4_Books%20%26%20Literature.md)
 5. [🤝 Community & Discussion Hubs](./5_Community%20Sites%20&%20Hubs.md)
 6. [📹 Tutorials & Walkthroughs](./6_Tutorials.md)
-7. [🛠️ Contributin.](#contributing)
+7. [🛠️ Contributing](#contributing)
 8. [📝 License](#license)
 
 ---
