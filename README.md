@@ -38,11 +38,13 @@ ___
 ## 🛠️ Contributing
 
 Thank you for improving this resource! Contributions are welcome from everyone.
+Check [contributing guidelines](./contributing.md)
 
 1. Fork the repo  
 2. Create a branch
 3. Add your resource
 4. Open a Pull Request
+5. 
 
 ##### Types of contributions
 - **New resources** (hardware, frameworks, papers, communities, tutorials)  
