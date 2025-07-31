@@ -48,3 +48,9 @@ Thank you for improving this resource! Contributions are welcome from everyone.
 ## 📝 License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+This repository is released under **CC0 1.0 Universal** (public domain). See [`LICENSE`](./LICENSE) for full text.
+
+---
+
+
