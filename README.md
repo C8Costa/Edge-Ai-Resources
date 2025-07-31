@@ -44,13 +44,6 @@ Check [contributing guidelines](./contributing.md)
 2. Create a branch
 3. Add your resource
 4. Open a Pull Request
-5. 
-
-##### Types of contributions
-- **New resources** (hardware, frameworks, papers, communities, tutorials)  
-- **Updates** to existing entries (broken/outdated links, improved descriptions)  
-- **Organization improvements** (formatting, TOC fixes, accessibility)  
-- **Community additions** (new active forums, discords, etc.)
 
 
 ## 📝 License
