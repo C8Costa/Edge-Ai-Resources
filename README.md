@@ -35,7 +35,7 @@ Edge AI is an amazing field, with exponential potential — here are eight h
 - **Precision Agriculture & Environmental Monitoring** – Field‑deployed sensors and ag‑drones execute plant‑disease and soil‑moisture classifiers on‑site, enabling targeted irrigation, fertilization and early pest intervention far from a data center.
 
 ___
-## 🛠️ Contributing
+## Contributing
 
 Thank you for improving this resource! Contributions are welcome from everyone.
 Check [contributing guidelines](./contributing.md)
@@ -47,7 +47,7 @@ Check [contributing guidelines](./contributing.md)
 
 If you find this useful, ⭐ star the repo & share it
 
-## 📝 License
+## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
