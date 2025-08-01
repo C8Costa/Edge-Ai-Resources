@@ -1,4 +1,4 @@
-# Edge AI Resources ⭐
+# Edge AI Resources
 
 **Curated Edge AI resources for computer vision & audio on embedded devices.**  
 Hardware • Frameworks • Benchmarking • Literature • Communities  
